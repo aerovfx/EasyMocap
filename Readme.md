@@ -5,7 +5,7 @@
  * @LastEditTime: 2022-11-03 13:09:58
  * @FilePath: /EasyMocapRelease/Readme.md
 -->
-
+https://chingswy.github.io/easymocap-public-doc/
 <div align="center">
     <img src="logo.png" width="40%">
 </div>
